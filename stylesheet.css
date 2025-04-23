@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    background: rgb(rgb(14, 14, 14), rgb(19, 19, 19), rgb(20, 20, 20));
+    padding: 8px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+  }
