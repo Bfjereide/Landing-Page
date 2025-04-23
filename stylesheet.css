@@ -13,3 +13,17 @@ ul {
     padding: 0;
     gap: 8px;
   }
+
+  ul {
+    /* fjerner liste-prikken ved lenkene i ul-listen*/
+    list-style-type: none;
+  }
+  
+  a {
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    /* fjerner streken under lenkene */
+    text-decoration: none;
+  }
+  
